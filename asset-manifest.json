@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newthiesco/gha-react-app/static/css/main.334c1bb3.css",
+    "main.js": "/newthiesco/gha-react-app/static/js/main.afbcd789.js",
+    "static/js/787.8eb42f38.chunk.js": "/newthiesco/gha-react-app/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/newthiesco/gha-react-app/index.html",
+    "main.334c1bb3.css.map": "/newthiesco/gha-react-app/static/css/main.334c1bb3.css.map",
+    "main.afbcd789.js.map": "/newthiesco/gha-react-app/static/js/main.afbcd789.js.map",
+    "787.8eb42f38.chunk.js.map": "/newthiesco/gha-react-app/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.afbcd789.js"
+  ]
+}
